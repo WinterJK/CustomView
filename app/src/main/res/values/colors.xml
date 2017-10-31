@@ -3,4 +3,16 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="per80_blue_00b7ee">#CC00B7EE</color>
+    <color name="white_opa80">#CCFFFFFF</color>
+    <color name="colorWithe">#FFFFFF</color>
+    <color name="colorWithe_40">#96FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="per90_white">#e6FFFFFF</color>
+    <color name="per80_white">#CCFFFFFF</color>
+    <color name="per50_white">#7FFFFFFF</color>
+    <color name="per40_white">#66FFFFFF</color>
+    <color name="per15_white">#26FFFFFF</color>
+    <color name="per40_black">#66000000</color>
+    <color name="white">#E6E6E6</color>
 </resources>
